@@ -11,4 +11,4 @@ Installation
                 $ cd psibox
                 ```
                 
-2) Aller à l'URL : http://192.168.33.10/PSI/web/
+2) Aller à l'URL : http://192.168.33.10/PSI/views/view.php
